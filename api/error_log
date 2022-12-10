@@ -1,0 +1,60 @@
+[09-Dec-2022 18:11:07 UTC] PHP Warning:  Undefined array key "name" in /home/salamein/public_html/kunal/api/createteam.php on line 9
+[09-Dec-2022 18:11:07 UTC] PHP Warning:  Undefined array key "member" in /home/salamein/public_html/kunal/api/createteam.php on line 10
+[09-Dec-2022 18:11:07 UTC] PHP Warning:  require_once(/home/salamein/public_html/kunal/includes/Config.php): Failed to open stream: No such file or directory in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:11:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/salamein/public_html/kunal/includes/Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/salamein/public_html/kunal/includes/DbOperation.php:10
+Stack trace:
+#0 /home/salamein/public_html/kunal/api/createteam.php(15): DbOperation->__construct()
+#1 {main}
+  thrown in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:12:19 UTC] PHP Warning:  Undefined array key "name" in /home/salamein/public_html/kunal/api/createteam.php on line 9
+[09-Dec-2022 18:12:19 UTC] PHP Warning:  Undefined array key "member" in /home/salamein/public_html/kunal/api/createteam.php on line 10
+[09-Dec-2022 18:12:19 UTC] PHP Warning:  require_once(/home/salamein/public_html/kunal/includes/Config.php): Failed to open stream: No such file or directory in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:12:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/salamein/public_html/kunal/includes/Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/salamein/public_html/kunal/includes/DbOperation.php:10
+Stack trace:
+#0 /home/salamein/public_html/kunal/api/createteam.php(15): DbOperation->__construct()
+#1 {main}
+  thrown in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:14:13 UTC] PHP Warning:  Undefined array key "name" in /home/salamein/public_html/kunal/api/createteam.php on line 9
+[09-Dec-2022 18:14:13 UTC] PHP Warning:  Undefined array key "member" in /home/salamein/public_html/kunal/api/createteam.php on line 10
+[09-Dec-2022 18:14:13 UTC] PHP Warning:  require_once(/home/salamein/public_html/kunal/includes/Config.php): Failed to open stream: No such file or directory in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:14:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/salamein/public_html/kunal/includes/Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/salamein/public_html/kunal/includes/DbOperation.php:10
+Stack trace:
+#0 /home/salamein/public_html/kunal/api/createteam.php(15): DbOperation->__construct()
+#1 {main}
+  thrown in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:14:17 UTC] PHP Warning:  Undefined array key "name" in /home/salamein/public_html/kunal/api/createteam.php on line 9
+[09-Dec-2022 18:14:17 UTC] PHP Warning:  Undefined array key "member" in /home/salamein/public_html/kunal/api/createteam.php on line 10
+[09-Dec-2022 18:14:17 UTC] PHP Warning:  require_once(/home/salamein/public_html/kunal/includes/Config.php): Failed to open stream: No such file or directory in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:14:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/salamein/public_html/kunal/includes/Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/salamein/public_html/kunal/includes/DbOperation.php:10
+Stack trace:
+#0 /home/salamein/public_html/kunal/api/createteam.php(15): DbOperation->__construct()
+#1 {main}
+  thrown in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:15:38 UTC] PHP Warning:  Undefined array key "name" in /home/salamein/public_html/kunal/api/createteam.php on line 14
+[09-Dec-2022 18:15:38 UTC] PHP Warning:  Undefined array key "member" in /home/salamein/public_html/kunal/api/createteam.php on line 15
+[09-Dec-2022 18:15:38 UTC] PHP Warning:  require_once(/home/salamein/public_html/kunal/includes/Config.php): Failed to open stream: No such file or directory in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:15:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/salamein/public_html/kunal/includes/Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/salamein/public_html/kunal/includes/DbOperation.php:10
+Stack trace:
+#0 /home/salamein/public_html/kunal/api/createteam.php(20): DbOperation->__construct()
+#1 {main}
+  thrown in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:17:14 UTC] PHP Warning:  Undefined array key "name" in /home/salamein/public_html/kunal/api/createteam.php on line 16
+[09-Dec-2022 18:17:14 UTC] PHP Warning:  Undefined array key "member" in /home/salamein/public_html/kunal/api/createteam.php on line 17
+[09-Dec-2022 18:17:14 UTC] PHP Warning:  require_once(/home/salamein/public_html/kunal/includes/Config.php): Failed to open stream: No such file or directory in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:17:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/salamein/public_html/kunal/includes/Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/salamein/public_html/kunal/includes/DbOperation.php:10
+Stack trace:
+#0 /home/salamein/public_html/kunal/api/createteam.php(24): DbOperation->__construct()
+#1 {main}
+  thrown in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:19:16 UTC] PHP Warning:  require_once(/home/salamein/public_html/kunal/includes/Config.php): Failed to open stream: No such file or directory in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:19:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/salamein/public_html/kunal/includes/Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/salamein/public_html/kunal/includes/DbOperation.php:10
+Stack trace:
+#0 /home/salamein/public_html/kunal/api/createteam.php(24): DbOperation->__construct()
+#1 {main}
+  thrown in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:20:41 UTC] PHP Warning:  require_once(/home/salamein/public_html/kunal/includes./Config.php): Failed to open stream: No such file or directory in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
+[09-Dec-2022 18:20:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/salamein/public_html/kunal/includes./Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/salamein/public_html/kunal/includes/DbOperation.php:10
+Stack trace:
+#0 /home/salamein/public_html/kunal/api/createteam.php(24): DbOperation->__construct()
+#1 {main}
+  thrown in /home/salamein/public_html/kunal/includes/DbOperation.php on line 10
