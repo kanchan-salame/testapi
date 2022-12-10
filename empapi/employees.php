@@ -3,7 +3,7 @@ class Employee{
 // dbection
 private $db;
 // Table
-private $db_table = "employee";
+private $db_table = "Employee";
 // Columns
 public $id;
 public $name;
